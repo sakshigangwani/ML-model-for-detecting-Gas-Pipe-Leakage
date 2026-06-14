@@ -3,7 +3,6 @@
 Machine-learning component of **IoT-Enabled Robot for Detecting Gas Pipe Leakage** — a mobile robot that autonomously navigates along gas pipelines and uses an unsupervised clustering model to flag leaks from live multi-sensor telemetry (LPG concentration, temperature, and humidity).
 
 > 🏅 **Published Patent** — Indian Patent Office, Application No. `202421078054`, published 15 Nov 2024.
-> The project was also recognized with a formal Letter of Appreciation from the college Principal.
 
 ---
 
